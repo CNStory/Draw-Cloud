@@ -52,13 +52,13 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
+      name: 'QQ',
+      link: 'tencent://message/?uin=2641213764&Site=&Menu=yes',
+    },
+    {
       name: 'GitHub',
       link: 'https://github.com/Shengyia/Draw-Cloud',
     },
-    {
-      name: 'QQ',
-      link: 'tencent://message/?uin=2641213764&Site=&Menu=yes'
-    }
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
