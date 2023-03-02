@@ -57,7 +57,7 @@ module.exports = {
     },
     {
       name: 'QQ',
-      link: 'tencent://message/?uin=2641213764&Site=&Menu=yes',
+      link: 'tencent://message/?uin=2641213764&Site=&Menu=yes'
     }
   ],
 
